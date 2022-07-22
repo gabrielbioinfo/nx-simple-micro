@@ -1,0 +1,9 @@
+{
+  "name": "@fx-paynet/shared",
+  "version": "0.0.1",
+  "type": "commonjs",
+  "dependencies": {
+    "@types/uuid": "^8.3.4",
+    "uuid": "^8.3.2"
+  }
+}
